@@ -1,3 +1,6 @@
+**Final Project Documentation for Lucy and Chunxiao**
+
+
 **Overall project concept and description**
 
 

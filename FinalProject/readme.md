@@ -1,3 +1,4 @@
+This is the project proposal;for project documentation, please go to https://github.com/annacxwang/Intro-to-Interactive-Media/tree/master/FinalProjectDocumentation
 Final Project Proposal for Lucy and Chunxiao
 
 **1.Project description**
